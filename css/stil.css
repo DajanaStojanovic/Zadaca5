@@ -1,0 +1,70 @@
+body {
+background-color: #FFE4AE; }
+
+.potpis {
+text-align: center; 
+font-size: 15px;
+color: black;
+opacity: 0.7;
+}
+
+.row {
+padding-top: 5px;
+padding-bottom: 5px;
+}
+
+.h1{
+padding-top: 20px;
+font-family: Lucida Calligraphy; 
+color: #B53119;}
+
+.galerija {
+padding-left: 100px;
+padding-right: 100px;
+}
+
+.gal {
+text-align: center;
+font-family: Lucida Calligraphy;
+padding-top: 50px;
+color: #B53119;}
+
+button, .button {
+  border-style: solid;
+  border-width: 0;
+  cursor: pointer;
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-weight: normal;
+  line-height: normal;
+  margin: 0 0 1.25rem;
+  position: relative;
+  text-decoration: none;
+  text-align: center;
+  -webkit-appearance: none;
+  border-radius: 0;
+  display: inline-block;
+  padding-top: 1rem;
+  padding-right: 2rem;
+  padding-bottom: 1.0625rem;
+  padding-left: 2rem;
+  font-size: 1rem;
+  background-color: #B53119;
+  border-color: #B53119;
+  color: #FFFFFF;
+  transition: background-color 300ms ease-out; }
+  button:hover, button:focus, .button:hover, .button:focus {
+    background-color: #660033; }
+a {
+color: #B53119;
+ }
+a:hover {
+  cursor: pointer;
+color: #660033;  }
+
+.navigacija {
+margin-left:10px;
+margin-right: 10px;}
+
+.upitnik {
+margin-left: 50px;
+margin-right: 50px;}
